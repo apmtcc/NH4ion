@@ -1,5 +1,5 @@
 # NH4ion  
-Subroutine POT to compute (H2) + (NH2-) potential energy for a given geometry
+Subroutine POT to compute NH4- potential energy for a given geometry
 Atom order : H--H--H--H--N
 Units for  : Cartesian in Angstrom and energy in eV
 Total 45932 CCSD(T)/F12a/aug-cc-pVTZ points fitted by FI-NN method
